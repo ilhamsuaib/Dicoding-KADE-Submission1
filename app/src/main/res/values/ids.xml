@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvClubName" type="id"/>
+    <item name="imgClub" type="id"/>
+    <item name="tvClubDescription" type="id" />
+</resources>
